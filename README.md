@@ -1,49 +1,42 @@
-# Ironhack Data Analytics Project 2
-For this project, an exploratory data analysis report have been made, in order to gain initial insight on the diamonds dataset.
+# Ironhack Machine Learning Project
+For this project, after doing an exploratory data analysis report, in order to gain initial insight on the diamonds dataset, an algorithm has been made, with machine learning techniques, to predict the price of a diamond as exact as possible, according to all the variables previously analyzed.
 
-The main objective of this dashboard is selecting the price of the diamond better fits the buyer, in order to different qualities the diamond posees such as clarity, cut and color, and their influence to the price depending on the carat size.
+The main objective of this project is predicting the price of the diamond, with the less error possible, having into account, diamonds three main qualities, clarity, cut and color, and their influence to the price depending on the carat size.
 
-This analysis include:
-- Descriptive statistics, in order to get knowledge about diamonds and their characteristics
-- Data visualizations charts in order to capture a large amount of data all at once in a clear and concise manner
 
 ![diamonds](diamond.png)
 
 
-### 💻**Tableau public link:**
-https://public.tableau.com/profile/juan.de.diego#!/vizhome/Ironhack-DiamondsAnalysisProyect2/DiamondsDashboard?publish=yes
-
 ### 💻**Data**:
-The Dataset used for this proyect is Diamonds.csv, a Diamonds dataset with more than 40.000 diamonds
+The Dataset used for this project is Diamonds.csv, a Diamonds dataset with more than 40.000 diamonds
 
 ### 🙋**Name**
-The Ultimate Diamond Buying Guide
+The Ultimate Machine Learning predictive price Algorithm
 
 ### 💥**Core technical concepts and inspiration🏃**
-Dinamic dashboard showing automatically the price of the diamond per carat, in order to the category characteristics select.
-You can make a custom diamond depending on the prize and kind of diamond the buyer needs.
-
-Open the dashboard and select the category properties of your selected diamond. The price will be shown in the first graph, and will change the price automatically (on differents Carat sizes) while changing characteristics of clarity, color and cut.
+Thanks to the exhaustive analysis on diamonds qualities in a previous Analytic project, an attempt has been made to make the algorithm that best predicts the price, depending on how the variables affect each other.
 
 ### 💻**Technology stack**
 - Exploratory Analysis dataset: Python, Pandas, Numpy, Seaborn, Matplotlib, Pyplot
-- Dashboard: Tableau
+- Machine Learning: Scikit-learn, lightgbm, GradientBoost, RandomForest
 
 ### 🔧**Configuration & Usage**
-There is no previous requirements to use the dashboard, just open it and start selecting your diamond characteristics.
-¡It will select the price for you itself!
+We just need to have python and the libraries requiere to run the models purposed.
 
 ### 📁 **Folder structure**
 ```
 └── project
     ├── Data
     ├── notebooks
-    │   ├── Analysis & Visualization.ipynb
-    │   └── DataBase First Approach.ipynb
+	├── models
+	├──submissions
+    │ 
     └── README.md
 ```
 
 ### 💌**Contact info**
 - LinkedIn: https://www.linkedin.com/in/juan-de-diego-suanzes/
+- Github: https://github.com/juanema74
+- Tableau: https://public.tableau.com/profile/juan.de.diego#!/?newProfile=&activeTab=0
 - Email: Juandediegosuanzes@gmail.com
 - Phone: 636277330
