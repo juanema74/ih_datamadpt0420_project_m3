@@ -7,20 +7,20 @@ The main objective of this project is predicting the price of the diamond, with 
 ![diamonds](diamond.png)
 
 
-### 💻**Data**:
+### 💻 **Data**:
 The Dataset used for this project is Diamonds.csv, a Diamonds dataset with more than 40.000 diamonds
 
-### 🙋**Name**
+### **Name**
 The Ultimate Machine Learning predictive price Algorithm
 
-### 💥**Core technical concepts and inspiration🏃**
+### 💥**Core technical concepts and inspiration**
 Thanks to the exhaustive analysis on diamonds qualities in a previous Analytic project, an attempt has been made to make the algorithm that best predicts the price, depending on how the variables affect each other.
 
-### 💻**Technology stack**
+### 💻 **Technology stack**
 - Exploratory Analysis dataset: Python, Pandas, Numpy, Seaborn, Matplotlib, Pyplot
 - Machine Learning: Scikit-learn, lightgbm, GradientBoost, RandomForest
 
-### 🔧**Configuration & Usage**
+### 🔧 **Configuration & Usage**
 We just need to have python and the libraries requiere to run the models purposed.
 
 ### 📁 **Folder structure**
@@ -34,7 +34,7 @@ We just need to have python and the libraries requiere to run the models purpose
     └── README.md
 ```
 
-### 💌**Contact info**
+### 💌 :link: **Contact info**
 - LinkedIn: https://www.linkedin.com/in/juan-de-diego-suanzes/
 - Github: https://github.com/juanema74
 - Tableau: https://public.tableau.com/profile/juan.de.diego#!/?newProfile=&activeTab=0
